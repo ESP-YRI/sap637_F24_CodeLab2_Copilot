@@ -1,5 +1,5 @@
-# FILL IN INFO ABOUT YOUR GAME HERE. 
+# "I" made this
 
-DO NOT LEAVE IT LIKE THIS!!!
+Why do I keep making games about eating apples / things running away from you / hell?
 
-Please? Please, give me content. I'm begging you. It's not that hard. Thanks.
+Move with WASD
