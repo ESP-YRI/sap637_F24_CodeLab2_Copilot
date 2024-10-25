@@ -57,6 +57,8 @@ public class WASDController : MonoBehaviour
         if (collision.gameObject.CompareTag("Fruit"))
         {
             applesEaten++; // Increment applesEaten by one
+            transform.localScale *= 1.1f; // Make the player object 0.2 times bigger
+            
             if (applesEaten < 10)
             {
                 textComponent.text = "*mucnhcmunchmunccmucnhcmucnh*";
